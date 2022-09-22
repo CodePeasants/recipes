@@ -1,5 +1,6 @@
 # Rubiks Cube Cake
 ![Rubiks Cube Cake by Cédric Grolet](rubiks_cube_cake.jpg)
+
 There are quite a lot of pcitures of rubiks cube cakes that folks have done online - but this is by far the most attractive.
 We don't have an exact recipe for this cake, so we're going to make our own by cobbling together what we can find and invent.
 
