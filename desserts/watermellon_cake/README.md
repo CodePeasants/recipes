@@ -5,6 +5,7 @@
 Light, fluffy & refreshing watermellon cake!
 
 ## Vanilla Cake
+[Source Video](https://www.youtube.com/watch?v=5gB8nKbJ0jc&ab_channel=SugarGeekShow)
 ### Ingredients
 - 13 oz cake flour
 - 13 oz sugar
