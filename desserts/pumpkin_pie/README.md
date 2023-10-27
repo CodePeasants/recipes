@@ -14,9 +14,9 @@ The recipes below are in order of preparation. See [master ingredient list](#mas
 #### Ingredients
 - 1 1/2 cups all purpose flour
 - 4 oz butter
-- 1 cup ice cold water
-- 1 tablespoon sugar
-- 1 teaspoon salt
+- 1/2 cup ice cold water
+- 1/2 tablespoon sugar
+- 1/2 teaspoon salt
 
 #### Instructions
 - All ingredients should be COLD (even flour if you can)
@@ -24,7 +24,7 @@ The recipes below are in order of preparation. See [master ingredient list](#mas
 - mix all ingredients except water in stand mixer for 1-2 minutes on low speed (should still have chunks of butter)
 - mix in most of the water - add the rest as needed for a lumpy shaggy dough - mix only until water is just incorperated - DO NOT OVER MIX
 - dump onto floured surface and press dough together flat. Fold on itself, press flat and repeat a couple times
-    - Sould end up fairly loose and not smooth with globs of butter still
+    - Should end up fairly loose and not smooth with globs of butter still
 - Wrap in plastic wrap and refridgerate for 1 hour
 - flour & roll out
 
