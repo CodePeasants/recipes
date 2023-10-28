@@ -11,12 +11,17 @@ The recipes below are in order of preparation. See [master ingredient list](#mas
 ## Recipes
 
 ### Pie Crust
+This makes enough dough for 2 pies, or one pie with a cover. If you make the full recipe, cut the dough in half to roll out crust and use
+the rest for decoration. I used the other half the make a braid that I attached to the rim of the pie crust that looks nice (egg wash it when baked)
+along with some leaves I made with a glass as a cookie cutter and a knife to cut veins in leaves, to place on top of the pie. Bake those when you
+blind-bake the crust and save them to top the pie later.
+
 #### Ingredients
-- 1 1/2 cups all purpose flour
-- 4 oz butter
-- 1/2 cup ice cold water
-- 1/2 tablespoon sugar
-- 1/2 teaspoon salt
+- 3 cups all purpose flour
+- 8 oz butter
+- 1 cup ice cold water
+- 1 tablespoon sugar
+- 1 teaspoon salt
 
 #### Instructions
 - All ingredients should be COLD (even flour if you can)
