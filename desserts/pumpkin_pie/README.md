@@ -75,6 +75,7 @@ blind-bake the crust and save them to top the pie later.
 ##### Filling & Finish
 - whisk together all ingredients, adding cream last before the caramel sauce until smooth
 - bake for 45-55 minutes, until center is almost set, but still a little jiggly
+    - **Core Temp:** 185f
 - turn off the oven and let pie cool in oven with door slightly open (prevents cracking)
 
 ### Rum Whipped Cream
