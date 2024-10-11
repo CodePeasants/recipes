@@ -93,18 +93,18 @@ blind-bake the crust and save them to top the pie later.
 - whip until stiff peaks
 
 ## Master Ingredient List
-- butter 20 tablespoons (1 1/4 cup)
+- butter 14 tablespoons (7/8 cup)
 - eggs 3
-- heavy cream 3 1/4 cup
+- heavy cream 2 3/4 cup
 - flour 1 1/2 cups
-- salt 3 teaspoon
-- sugar 2 1/4 cups
+- salt 2 teaspoon
+- sugar 1 1/4 cups
+- light brown sugar 1 cup
 - cinnamon 2.5 teaspoon
 - cloves 1/2 teaspoon
 - nutmeg 1/2 teaspoon
 - ginger 1 teaspoon
 - vanilla extract 1 1/2 teaspoon
 - punpkin puree 15 ounces
-- light brown sugar 1 cup
 - dark rum 1 tablespoon 
 - ginger snaps & pecans for crust lining
