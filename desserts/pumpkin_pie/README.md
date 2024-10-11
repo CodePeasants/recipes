@@ -1,12 +1,13 @@
 # Fancy Pumpkin Pie
 ![Pumpkin Pie](pie.png)
+
 The recipes below are in order of preparation. See [master ingredient list](#master-ingredient-list) at the bottom for shopping.
 
 ## Sources
-[13 Pumpkin Pie Upgrades](https://www.realsimple.com/food-recipes/how-to-make-pumpkin-pie-better)
-[Salted Caramel Pumpkin Pie](https://www.twopeasandtheirpod.com/salted-caramel-pumpkin-pie/)
-[Salted Caramel Sauce](https://www.twopeasandtheirpod.com/salted-caramel-sauce/)
-[Pie Crust Video](https://youtu.be/FC87gs1V-Gc)
+- [13 Pumpkin Pie Upgrades](https://www.realsimple.com/food-recipes/how-to-make-pumpkin-pie-better)
+- [Salted Caramel Pumpkin Pie](https://www.twopeasandtheirpod.com/salted-caramel-pumpkin-pie/)
+- [Salted Caramel Sauce](https://www.twopeasandtheirpod.com/salted-caramel-sauce/)
+- [Pie Crust Video](https://youtu.be/FC87gs1V-Gc)
 
 ## Recipes
 
@@ -36,10 +37,10 @@ blind-bake the crust and save them to top the pie later.
 ### Salted Caramel Sauce
 ![Salted Caramel Sauce](caramel_sauce.png)
 #### Ingredients
-- 2 cups sugar
-- 12 tablespoons (3/4 cup) butter
-- 1 cup heavy cream
-- 1-2 teaspoons sea salt
+- 1 cup sugar
+- 6 tablespoons (3/8 cup) butter
+- 1/2 cup heavy cream
+- 1 teaspoons sea salt
 
 #### Instructions
 - melt sugar over medium-high heat - whisking constantly once it starts to melt
