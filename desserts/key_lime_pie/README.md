@@ -29,9 +29,4 @@
 - bake for ~18 minutes (it should still wobble a bit)
 - let cool for 30 minutes then refridgerate for at least 3 hours.
 
-## Whipped Cream
-### Ingredients
-- 1 cup heavy cream
-- 2 tablespoon sugar
-- 1 tsp vanilla extract
-- 1 tsp coconut extract
+## [Whipped Cream](../whipped_cream/README.md)
