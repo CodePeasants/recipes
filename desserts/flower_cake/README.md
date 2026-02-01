@@ -5,7 +5,7 @@ Cake day 2025 - will be comprised of 7 cylindrical cakes of varying heights, eac
 ## Flowers / Flavor Profiles
 - white / green jasmine
     - jasmine
-- red poppy
+- [red poppy](https://youtu.be/Ijh7dGlr8VU?t=173)
     - poppy seed
 - orange blossom
     - orange
